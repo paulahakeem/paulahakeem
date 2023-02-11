@@ -10,7 +10,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulahakeem" alt="paulahakeem" /></a> </p> -->
 
-- 📫 How to reach me **paula.hakeem@yahoo.com**
+- 📫 How to reach me **Paula.Hakeem@Yahoo.com**
 
 - 📄 Know about my experience [Resume](https://drive.google.com/file/d/1LJOGaGDMq8Dqun9FlJYFHfrsE_w4GwG9/view?usp=sharing)
 
