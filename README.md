@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Paula.Hakeem@Yahoo.com**
 
-- 📄 Know about my experience [Resume](https://drive.google.com/file/d/1CQpIsoEwXasTYrVX4jfgoELckTFVhhUL/view?usp=sharing)
+- 📄 Know about my experience [Resume](https://drive.google.com/file/d/1poCU4WcNg0DwD0BLn0g8uUGdQPxTEDn-/view?usp=share_link)
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h3>
 
